@@ -1,0 +1,20 @@
+name: Sync MOTD to main
+on:
+  push:
+    branches:
+      - claude/motd-publish
+permissions:
+  contents: write
+jobs:
+  fast-forward:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+      - name: Fast-forward main to claude/motd-publish
+        run: |
+          git fetch origin claude/motd-publish
+          git merge --ff-only origin/claude/motd-publish
+          git push origin main
