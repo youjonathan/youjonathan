@@ -3,7 +3,7 @@
 
 Stanford CS — building AI stuff.
 
-> _No MOTD yet — the routine fires daily at 9am PT._
+> **2026-05-15** — officially done with midterms!
 
 ---
 
