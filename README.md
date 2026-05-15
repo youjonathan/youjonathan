@@ -3,7 +3,7 @@
 
 Stanford CS — building AI stuff.
 
-> **2026-05-15** — deadline day: cs229 and cs231n milestone 1 both drop tonight. squeeze in math52, lunch at stern, then grind through the weekend.
+> _No MOTD yet — the routine fires daily at 9am PT._
 
 ---
 
