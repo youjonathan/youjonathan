@@ -5,6 +5,4 @@ Stanford CS — building AI stuff.
 
 {{MOTD_BLOCK}}
 
----
-
-🤖 This README is updated daily by a pair of [claude.ai routines](https://claude.ai) — one drafts candidates at 9am PT and DMs them to me on Slack; the second commits whichever one I pick.
+_message updated daily_
