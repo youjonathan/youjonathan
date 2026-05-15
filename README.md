@@ -8,5 +8,3 @@ Stanford CS — building AI stuff. ML research, agent tooling, and the occasiona
 ---
 
 🤖 This README is updated daily by a pair of [claude.ai routines](https://claude.ai) — one drafts candidates at 9am PT and DMs them to me on Slack; the second commits whichever one I pick.
-
-<!-- ff-test sentinel -->
