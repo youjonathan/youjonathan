@@ -24,10 +24,17 @@ def render(motds: list[dict], today: date, template: str) -> str:
     today_str = today.isoformat()
 
     # Dedupe by date, keeping the entry with the latest posted_at per date.
+    # `posted_at` is required — fail loudly on malformed input rather than
+    # silently picking an order-dependent winner. Ties go to the later entry
+    # (>=) so a same-second rewrite has well-defined semantics.
     by_date: dict[str, dict] = {}
-    for entry in motds:
+    for i, entry in enumerate(motds):
+        if "date" not in entry or "posted_at" not in entry:
+            raise ValueError(
+                f"motds[{i}] missing required key 'date' or 'posted_at': {entry!r}"
+            )
         prev = by_date.get(entry["date"])
-        if prev is None or entry.get("posted_at", "") > prev.get("posted_at", ""):
+        if prev is None or entry["posted_at"] >= prev["posted_at"]:
             by_date[entry["date"]] = entry
 
     todays = by_date.get(today_str)

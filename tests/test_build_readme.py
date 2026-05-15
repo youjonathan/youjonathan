@@ -67,6 +67,24 @@ class BuildReadmeTests(unittest.TestCase):
         b = build_readme.render(motds, date(2026, 5, 15), TEMPLATE)
         self.assertEqual(a, b)
 
+    def test_missing_posted_at_raises(self):
+        motds = [{"date": "2026-05-15", "text": "no timestamp"}]
+        with self.assertRaises(ValueError) as ctx:
+            build_readme.render(motds, date(2026, 5, 15), TEMPLATE)
+        self.assertIn("posted_at", str(ctx.exception))
+
+    def test_dedupe_tie_uses_later_entry(self):
+        # Two entries for the same date with IDENTICAL posted_at — later wins.
+        motds = [
+            {"date": "2026-05-15", "text": "earlier", "style": "terse",
+             "posted_at": "2026-05-15T09:00:00-07:00"},
+            {"date": "2026-05-15", "text": "later",   "style": "casual",
+             "posted_at": "2026-05-15T09:00:00-07:00"},
+        ]
+        readme = build_readme.render(motds, date(2026, 5, 15), TEMPLATE)
+        self.assertIn("later", readme)
+        self.assertNotIn("earlier", readme)
+
 
 if __name__ == "__main__":
     unittest.main()
