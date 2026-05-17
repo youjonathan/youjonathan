@@ -3,6 +3,13 @@
 
 Stanford CS — building AI stuff.
 
-> **2026-05-15** — officially done with midterms!
+> **2026-05-16** — BTS concert today, so excited!!!
+
+<details>
+<summary>Past MOTDs</summary>
+
+- **2026-05-15** — officially done with midterms!
+
+</details>
 
 _message updated daily_
