@@ -3,11 +3,12 @@
 
 Stanford CS — building AI stuff.
 
-> **2026-05-17** — chill day to relax and catch up
+> **2026-05-19** — i want to watch BTS again...
 
 <details>
 <summary>Past MOTDs</summary>
 
+- **2026-05-17** — chill day to relax and catch up
 - **2026-05-16** — BTS concert today, so excited!!!
 - **2026-05-15** — officially done with midterms!
 
