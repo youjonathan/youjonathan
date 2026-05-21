@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Slack__slack_read_thread",
+      "mcp__Slack__slack_send_message",
+      "mcp__Slack__slack_add_reaction",
+      "mcp__Slack__slack_search_public_and_private",
+      "mcp__Slack__slack_search_public",
+      "mcp__Slack__slack_read_channel"
+    ]
+  }
+}
