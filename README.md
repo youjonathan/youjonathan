@@ -3,11 +3,12 @@
 
 Stanford CS — building AI stuff.
 
-> **2026-05-23** — IT'S THE START OF A LONG WEEKEND!!!
+> **2026-05-25** — working on a new project! happy memorial dayyy
 
 <details>
 <summary>Past MOTDs</summary>
 
+- **2026-05-23** — IT'S THE START OF A LONG WEEKEND!!!
 - **2026-05-21** — my cousin's graduation ceremony today!
 - **2026-05-20** — my cousin's graduation ceremony today!
 - **2026-05-19** — i want to watch BTS again...
