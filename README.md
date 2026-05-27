@@ -10,11 +10,11 @@ Stanford CS — building AI stuff.
 
 - **2026-05-25** — testing out the new poke-driven workflow!
 - **2026-05-23** — IT'S THE START OF A LONG WEEKEND!!!
-- **2026-05-21** — my cousin's graduation ceremony today!
 - **2026-05-20** — my cousin's graduation ceremony today!
 - **2026-05-19** — i want to watch BTS again...
 - **2026-05-17** — chill day to relax and catch up
 - **2026-05-16** — BTS concert today, so excited!!!
+- **2026-05-15** — officially done with midterms!
 
 </details>
 
