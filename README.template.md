@@ -5,4 +5,4 @@ Stanford CS — building AI stuff.
 
 {{MOTD_BLOCK}}
 
-_message updated daily_
+_message updated daily (if i remember)_
