@@ -18,4 +18,4 @@ Stanford CS — building AI stuff.
 
 </details>
 
-_message updated daily_
+_message updated daily (if i remember)_
