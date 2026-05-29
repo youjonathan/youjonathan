@@ -3,18 +3,18 @@
 
 Stanford CS — building AI stuff.
 
-> **2026-05-28** — officially a masters student under the department of cs :)
+> **2026-05-29** — last friday of sophomore year!
 
 <details>
 <summary>Past MOTDs</summary>
 
+- **2026-05-28** — officially a masters student under the department of cs :)
 - **2026-05-27** — never taking 22 units again
 - **2026-05-26** — spring quarter is almost over
 - **2026-05-25** — testing out the new poke-driven workflow!
 - **2026-05-23** — IT'S THE START OF A LONG WEEKEND!!!
 - **2026-05-20** — my cousin's graduation ceremony today!
 - **2026-05-19** — i want to watch BTS again...
-- **2026-05-17** — chill day to relax and catch up
 
 </details>
 
