@@ -3,18 +3,18 @@
 
 Stanford CS — building AI stuff.
 
-> **2026-06-03** — penultimate day of class!
+> **2026-06-04** — can’t wait for finals to be over
 
 <details>
 <summary>Past MOTDs</summary>
 
+- **2026-06-03** — penultimate day of class!
 - **2026-06-02** — penultimate day of class!
 - **2026-06-01** — LAST WEEK LET’S POWER THROUGH
 - **2026-05-31** — the weekend goes by so fast…
 - **2026-05-29** — last friday of sophomore year!
 - **2026-05-28** — officially a masters student under the department of cs :)
 - **2026-05-27** — never taking 22 units again
-- **2026-05-26** — spring quarter is almost over
 
 </details>
 
