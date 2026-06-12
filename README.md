@@ -3,18 +3,18 @@
 
 Stanford CS — building AI stuff.
 
-> **2026-06-05** — first day of finals!
+> **2026-06-12** — move out day
 
 <details>
 <summary>Past MOTDs</summary>
 
+- **2026-06-08** — officially done with all final exams
+- **2026-06-06** — math final today 😭
+- **2026-06-05** — first day of finals!
 - **2026-06-04** — can’t wait for finals to be over
 - **2026-06-03** — penultimate day of class!
 - **2026-06-02** — penultimate day of class!
 - **2026-06-01** — LAST WEEK LET’S POWER THROUGH
-- **2026-05-31** — the weekend goes by so fast…
-- **2026-05-29** — last friday of sophomore year!
-- **2026-05-28** — officially a masters student under the department of cs :)
 
 </details>
 
