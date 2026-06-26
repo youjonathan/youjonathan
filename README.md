@@ -3,11 +3,12 @@
 
 Stanford CS — building AI stuff.
 
-> **2026-06-21** — back in cali
+> **2026-06-26** — slept over at a friend’s last night and we had the BEST yap session 😭🙏
 
 <details>
 <summary>Past MOTDs</summary>
 
+- **2026-06-21** — back in cali
 - **2026-06-20** — last day at home 💔
 - **2026-06-18** — it’s a beautiful day and i’m seeing my beautiful friends
 - **2026-06-17** — i love summer
