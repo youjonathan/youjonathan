@@ -3,7 +3,7 @@
 
 Stanford CS — building AI stuff.
 
-> **2026-06-26** — slept over at a friend’s last night and we had the BEST yap session 😭🙏
+> **2026-06-27** — first week done
 
 <details>
 <summary>Past MOTDs</summary>
@@ -15,7 +15,6 @@ Stanford CS — building AI stuff.
 - **2026-06-13** — back on the east coast!
 - **2026-06-12** — move out day
 - **2026-06-08** — officially done with all final exams
-- **2026-06-06** — math final today 😭
 
 </details>
 
