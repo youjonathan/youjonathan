@@ -2,20 +2,3 @@
 # Jonathan You
 
 Stanford CS — building AI stuff.
-
-> **2026-06-28** — spending the day in sf
-
-<details>
-<summary>Past MOTDs</summary>
-
-- **2026-06-27** — first week done
-- **2026-06-21** — back in cali
-- **2026-06-20** — last day at home 💔
-- **2026-06-18** — it’s a beautiful day and i’m seeing my beautiful friends
-- **2026-06-17** — i love summer
-- **2026-06-13** — back on the east coast!
-- **2026-06-12** — move out day
-
-</details>
-
-_message updated daily (if i remember)_

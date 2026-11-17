@@ -2,7 +2,3 @@
 # Jonathan You
 
 Stanford CS — building AI stuff.
-
-{{MOTD_BLOCK}}
-
-_message updated daily (if i remember)_
